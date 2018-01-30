@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "modules": false,
+        "targets": {
+          "browsers": ["last 1 version", "ie >= 11"]
+        }
+    }]
+  ],
+  "plugins": ["@babel/proposal-class-properties", "dev-expression"]
+}

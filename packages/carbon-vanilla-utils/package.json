@@ -1,0 +1,12 @@
+{
+  "name": "@carbon/vanilla-utils",
+  "description": "Utility functions for Carbon vanilla libraries",
+  "version": "9.0.0-alpha.0",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "lib/**/*",
+    "es/**/*"
+  ]
+}
